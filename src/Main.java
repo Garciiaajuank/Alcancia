@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
+        //Juan camilo Garcia Quevedo-301T
         int entrada,mon20=20,mon50=50,mon100=100,mon200=200,mon500=500,montotal;
         int cmon20=0,cmon50=0,cmon100=0,cmon200=0,cmon500=0;
 
